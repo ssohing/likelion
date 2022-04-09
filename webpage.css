@@ -1,0 +1,56 @@
+
+.mainbox{
+    width: 915px;
+    padding: 30px;
+    margin: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid #ebebeb;
+    box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+.titlebox{
+    font-size:15px;
+    font-weight:bold;
+    color:#778899;
+    text-align: center;
+}
+
+.subtitle{
+    font-size:13px;
+    font-weight:normal;
+    color:#483d8b;
+}
+
+.date{
+    font-size:12px;
+    font-weight:normal;
+    border-top: 1px solid #a9a9a9;
+    border-bottom: 1px solid #a9a9a9;
+    margin-bottom: 10px;
+}
+
+.hashtag{
+    font-size:15px;
+}
+
+mark{
+    background-color:#add8e6;
+    color:black;
+}
+
+footer{
+    color:#778899;
+    text-align : center;
+    font-weight:lighter;
+    font-size:small;
+}
+
+.travel-warp{
+    overflow: hidden;
+}
+
+.travel-img{
+    width:300px;
+    height:300px;
+}
